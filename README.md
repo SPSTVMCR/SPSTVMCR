@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SPSTVMCR, or Gary Nolanson.
 - You may also know me as Gia.
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Python and JS.
+- 👀 I’m interested in Arduino and web development.
+- 🌱 I’m currently learning Python, JS and C++.
 - 📫 How to reach me: alteredmegalox@gmail.com
