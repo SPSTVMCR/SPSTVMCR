@@ -48,11 +48,3 @@
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SPSTVMCR/SPSTVMCR/output/snake.svg" alt="Snake animation" />
-
-###
