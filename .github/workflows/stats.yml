@@ -17,9 +17,9 @@ jobs:
       - name: Generate stats.svg
         uses: cicirello/user-statistician@v1
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
           image-file: stats.svg
           colors: onedark
+          commit-and-push: false
 
       - name: Commit stats.svg
         run: |
