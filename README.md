@@ -13,8 +13,6 @@
   <br />
 
   <div>
-    <img src="./stats.svg" alt="Github stats" />
-    <br /><br />
     <img src="./metrics.svg" alt="Github metrics" />
   </div>
 
